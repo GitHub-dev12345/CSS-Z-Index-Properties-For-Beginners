@@ -39,3 +39,25 @@ div#layer3{
     padding: 20px;
     border-radius: 15px;
 }
+
+/* Footer Design Css Code */
+footer{
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+/* Footer anchor tag Design CSS Code */
+footer a{
+    color: red;
+    cursor: pointer;
+}
+
+/* Footer Link Visited Css Code  */
+footer a:hover{
+    text-decoration: none;
+    color: purple;
+}
